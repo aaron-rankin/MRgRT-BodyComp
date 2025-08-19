@@ -1,0 +1,24 @@
+# remove data files
+*.csv
+*.png
+*.npy
+*.npz
+*.nii
+*.pdf
+
+# remove aux files
+*.onnx
+*.pyc
+
+# remove dirs
+keys/
+runs/
+image_props/
+**/fold_*
+process_outputs/
+
+
+# specific files
+check_predictions.ipynb
+check_training_data.ipynb
+masks_rm-BB.py
