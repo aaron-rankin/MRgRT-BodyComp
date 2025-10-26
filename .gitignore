@@ -25,3 +25,5 @@ check_training_data.ipynb
 masks_rm-BB.py
 TITAN_MR_pelvis-final_noBB.ini
 cv_results/cv_results.ipynb
+model_all_noBB/remove_BB_mask.py
+cv_results/cv_results.ipynb
